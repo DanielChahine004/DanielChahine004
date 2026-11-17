@@ -7,4 +7,4 @@ PhD candidate in biomedical engineering at the **University of Technology Sydney
 - 📄 **Publications:** PRISM, a physics-informed CNN for interaction localisation in nanocomposite PET scintillators (Physics in Medicine & Biology, 2026, accepted); [Voxel-level brain-state prediction with Swin Transformers](https://ieeexplore.ieee.org/document/11283638) (IEEE JBHI, 2025)
 - 🛠️ **Side projects:** [danvas](https://github.com/DanielChahine004/danvas) (interactive browser canvases driven from Python), [paper-explainer-videos](https://github.com/DanielChahine004/paper-explainer-videos) (narrated Manim explainers of research papers)
 
-🌐 [danielchahine004.github.io](https://danielchahine004.github.io) · [LinkedIn](https://www.linkedin.com/in/daniel-chahine-50a2ab264) · [ORCID](https://orcid.org/0009-0001-4177-522X)
+🌐 [danielchahine004.github.io](https://danielchahine004.github.io/?ref=github) · [LinkedIn](https://www.linkedin.com/in/daniel-chahine-50a2ab264) · [ORCID](https://orcid.org/0009-0001-4177-522X)
